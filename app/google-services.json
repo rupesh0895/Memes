@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051970070404",
+    "firebase_url": "https://mymims-142fa.firebaseio.com",
+    "project_id": "mymims-142fa",
+    "storage_bucket": "mymims-142fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051970070404:android:7965a23daf589722",
+        "android_client_info": {
+          "package_name": "rupesh.technetty.com.mymims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051970070404-o3b07c1u42vpurbq0lduofc5mubt0mq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rupesh.technetty.com.mymims",
+            "certificate_hash": "d82dd59511e3ac402a1258c488fcd48d8257f408"
+          }
+        },
+        {
+          "client_id": "1051970070404-og2ueipckq2ufa47lc01ti3ckpghsn71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsB8jSA5QsOBj228C3W2saWQiYOWR7Q4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051970070404-og2ueipckq2ufa47lc01ti3ckpghsn71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
